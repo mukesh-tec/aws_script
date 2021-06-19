@@ -1,6 +1,7 @@
+### Snapshots Delection before 10 days###
 import boto3
 import datetime
-### Snapshots Delection before 10 days###
+
 region = 'us-west-1'
 owner_ids = ['12345678']
  
